@@ -1,0 +1,8 @@
+{
+  "name": "A Voice in the Last Days",
+  "description": "Digital ministry platform guiding visitors toward true salvation through divine grace, extensive religious resources, sermons, doctrinal tracts, historical timelines, and personal testimonies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
